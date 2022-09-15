@@ -45,10 +45,10 @@ public class Main {
          * Döngüleri ekrana yazdırmak.
          * */
         
-        String[] arryas = {"eleman1", "eleman2", "eleman3"};
+        String[] arrays = {"eleman1", "eleman2", "eleman3"};
         
-        for (int i = 0; i < arryas.length; i++) {
-            System.out.println(arryas[i]);
+        for (int i = 0; i < arrays.length; i++) {
+            System.out.println(arrays[i]);
             
         }
     }
